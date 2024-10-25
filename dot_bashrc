@@ -115,6 +115,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 
-eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/JanDeDobbeleer/oh-my-posh/main/themes/jandedobbeleer.omp.json')"
+eval "$(oh-my-posh init bash --config 'https://raw.githubusercontent.com/keytrap-x86/dotfiles/refs/heads/main/omp-them.json')"
 
 # TEST
