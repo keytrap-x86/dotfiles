@@ -15,7 +15,7 @@
           "foreground": "#f1184c",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
-          "template": " {{ .UserName }} {{ .HostName }}",
+          "template": " {{ .UserName }}@{{ .HostName }}",
           "type": "session"
         },
         {
